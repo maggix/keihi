@@ -1,0 +1,13 @@
+# Site settings
+title: Keihi経費
+email: giovanni.maggini@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Just another spending app. 経費 means "expenses" (unless Google Translate is wrong, of course).
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:4000" # the base hostname & protocol for your site
+twitter_username: maggix
+github_username:  maggix
+timezone: Europe/Amsterdam
+
+# Build settings
+markdown: kramdown
