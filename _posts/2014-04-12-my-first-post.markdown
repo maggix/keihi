@@ -9,4 +9,4 @@ This is my first post.
 
 With a picture.
 
-![Golden Ratio]({{ site.url }}/assets/2015-04-12-goldenratio.jpg)
+![Golden Ratio]({{ site.url }}{{ site.baseurl }}/assets/2015-04-12-goldenratio.jpg)
